@@ -12,7 +12,7 @@ section .data
  segundo_numero db "digite outro valor: ", 0
  len2 equ $-segundo_numero
 
- resultado db "o resultado é: ", 0xA
+ resultado db "o resultado é: ", 10
  resul equ $-resultado
  
  numero_1 equ 2
