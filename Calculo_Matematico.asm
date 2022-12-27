@@ -26,7 +26,7 @@ section .bss
  resposta resb valor_3
 
 section .text
- global start
+ global _start
 
 _start:
   
