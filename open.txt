@@ -1,0 +1,12 @@
+# Assembly
+
+Este código matemático pode ter resultados diferentes
+do que se espera, muitas vezes a máquina pode
+fazer uma soma e subtrair o resultado, assim dando 
+uma reposta diferente do esperado, apenas são reservados
+2 bytes para os valores ( resb 2 ) e 1 byte para respostas.
+
+uma calculadora básica em Assembly para estudantes, algum erro?
+você tem a liberdade de reescrever o código e ajudar.
+
+Ass: Rukan 
